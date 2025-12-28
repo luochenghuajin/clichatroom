@@ -48,12 +48,6 @@ make -j$(nproc)
 ## 项目结构说明
 
 CLIChatRoom/
-├── tests/
-│   ├── main.cpp
-│   ├── test_client.cpp
-│   ├── test_network.cpp
-│   ├── test_server.cpp
-│   └── test_services.cpp
 ├── client.cpp
 ├── CMakeLists.txt
 ├── common.h
